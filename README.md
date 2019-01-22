@@ -6,3 +6,4 @@ some examples about tensorflow
 [Udacity. Predict Steering Angles](https://medium.com/udacity/challenge-2-using-deep-learning-to-predict-steering-angles-f42004a36ff3)  
 [Udacity Steering Predict repo](https://github.com/udacity/self-driving-car/tree/master/challenges/challenge-2)  
 [self-driving-car-code](https://github.com/navoshta/behavioral-cloning)
+[stanford cs231 CNN doc](https://cs231n.github.io/convolutional-networks/#convert)
